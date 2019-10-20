@@ -10,10 +10,10 @@ We use Penn Tree Bank (PTB) as our corpus.
 CRN fulfills TCN as encoder and RNN as decoder so that the global semantics as well as the local dependencies are simultaneously learned from sequence data. To facilitate the interpretation and robustness in neural networks, we further develop stochastic modeling for CRN based on variance inference. We call it SCRN. The merits of CNN and RNN are then incorporated in inference of latent space which sufficiently produces a generative model for sequential prediction. Experiments on language model shows the effectiveness of stochastic CRN when compared with other sequential machines.
 
 + flow chart  
-<img src="figures/flowchart.png" width="30%" height="30%" />
+<img src="figures/flowchart.pdf" width="30%" height="30%" />
 
 + architecture 
-<img src="figures/architecure.png" width="80%" height="80%" />
+<img src="figures/architecure.pdf" width="80%" height="80%" />
 
 ## Setting
 * Hardware:
