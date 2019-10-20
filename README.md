@@ -13,7 +13,7 @@ CRN fulfills TCN as encoder and RNN as decoder so that the global semantics as w
 <img src="figures/flowchart.png" width="50%" height="50%" />
 
 + architecture 
-<img src="figures/architecture.png" width="50%" height="50%" />
+<img src="figures/stage.png" width="50%" height="50%" />
 
 ## Setting
 * Hardware:
